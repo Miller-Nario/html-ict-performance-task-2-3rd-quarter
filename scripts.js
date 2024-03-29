@@ -43,7 +43,7 @@ const quizData = [
     answer: 'Jujutsu Kaisen',
   },
   {
-    question: 'Who Killed Portgas D. Ace"?',
+    question: 'Who Killed Portgas D. Ace?',
     options: [
       'Marine Admiral Akainu',
       'Marshall D. Teach',
